@@ -4,22 +4,33 @@ nav_order: 3
 title: Objectifs du projet
 ---
 
-# Introduction
+## Contexte
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Le Forum des Sciences d'Amiens souhaite une animation pédagogique sur le
+tri sélectif pour son édition de mai. Aucune démonstration mécanique de
+tri n'existe actuellement dans le programme.
 
-## Contexte du Projet
+## Objectifs
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Concevoir un robot capable de trier 3 catégories de déchets (plastique,
+verre, métal) déposés sur un tapis roulant de 1 m, pour une démonstration
+publique le 15 mai.
 
-## Objectifs du Projet
+## Public cible
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+Les visiteurs (familles, scolaires) et l'équipe d'animation du Forum des
+Sciences, qui doit pouvoir faire fonctionner le robot sans notre présence
+le jour J.
 
-# Existant
+## Contraintes
 
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+- Délai : 8 semaines
+- Budget : 150 € maximum
+- Matériel / machines disponibles : imprimante 3D, découpe laser, Arduino
+- Compétences de l'équipe : électronique de base, aucune expérience en
+  vision par caméra
 
-# Cahier des Charges
+## Critères de réussite
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+Taux de tri correct ≥ 80 % sur 20 essais, robot fonctionnant sans
+supervision technique pendant la démonstration, coût total ≤ 150 €.
